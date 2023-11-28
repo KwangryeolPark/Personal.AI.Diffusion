@@ -1,4 +1,5 @@
 *.pyn
+*.pyc
 
 venv
 data
